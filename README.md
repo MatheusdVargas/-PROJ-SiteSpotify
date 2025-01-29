@@ -14,4 +14,4 @@ JavaScript
 Este projeto foi desenvolvido apenas para fins educativos e não possui fins comerciais.
 
 ## ✨ Créditos 
-Este projeto foi criado durante a Imersão Alura, uma iniciativa para aprendizado de desenvolvimento web.
+Este projeto foi criado durante a Imersão Front-End Alura.
