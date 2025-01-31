@@ -1,6 +1,6 @@
 # Spotify Clone 🎵
 
-Este repositório contém um site inspirado no Spotify, desenvolvido durante uma imersão da Alura. O projeto tem como objetivo a prática de HTML, CSS e JavaScript, recriando a interface do famoso aplicativo de streaming de música.
+Este repositório contém um site inspirado no Spotify, desenvolvido durante uma imersão da Alura. O projeto tem como objetivo a prática de HTML, CSS e JavaScript, recriando a interface do Spotify.
 
 ## 📌 Tecnologias Utilizadas
 
